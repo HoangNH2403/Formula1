@@ -1,4 +1,4 @@
-# Formula1
+# Formula1 Project
 ## Objective: 
 The main goal of this project is to store, manage, and process data from F1 races from 1950 to present to serve
 analysis and reporting.
