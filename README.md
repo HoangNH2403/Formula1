@@ -6,3 +6,4 @@ analysis and reporting.
 * Ingest data using Data Factory
 * Store data using Data Lake
 * Process and analyze data using Pyspatk, SQL Spark
+* Create a datapipeline using Data Factory
