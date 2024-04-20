@@ -3,7 +3,8 @@
 The main goal of this project is to store, manage, and process data from F1 races from 1950 to present to serve
 analysis and reporting.
 ## Implementation:
-* Ingest data using Data Factory
-* Store data using Data Lake
-* Process and analyze data using Pyspatk, SQL Spark
-* Create a datapipeline using Data Factory
+* Ingest data to Data Lake
+* Store raw data into Raw Layer
+* Transform data to prepare for analysis using PySpark, SparkSQL then store into Processed Layer
+* Analysis the data and report on the Presentation Layer
+* Create data pipeline to automate the process. 
